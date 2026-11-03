@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nimi</string>
+    <string name="widget_title">nimi</string>
+    <string name="widget_btn_fake_call">Fake Call</string>
+    <string name="widget_btn_sos_location">SOS Location</string>
+    <string name="shortcut_fake_call">Fake Call</string>
+    <string name="shortcut_fake_call_long">Trigger Incoming Call</string>
+    <string name="shortcut_sos">Sister SOS</string>
+    <string name="shortcut_sos_long">Alert Trusted Circle with Live GPS</string>
+</resources>
